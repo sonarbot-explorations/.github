@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Welcome to SonarBot Explorations
 
 ## Hydrographic Surveys with Precision and Efficiency
@@ -24,12 +26,15 @@ SonarBots can be equipped with various sonar modules and sensors depending on th
 <a name="sonarmaps"></a>
 ## SonarMaps
 
-Our SonarMaps are detailed 3D renditions of scanned underwater topographies. Virtually dive into the water in real-time or explore beneath the entire surface from the shore. With free positioning and orientation inside the model, you can enjoy any desired perspective. Experience a 360° panoramic view from any chosen position. 
+Our SonarMaps are detailed 3D renditions of scanned underwater topographies. Virtually dive into the water in real-time or explore beneath the surface from the shore. With free positioning and orientation inside the model you can enjoy any desired perspective. Experience a 360° panoramic view from any chosen position. 
 
 <a name="sonarapp"></a>
 ## SonarApp
 
 The SonarApp is a free mobile viewer for SonarMaps. This way you can have all publicly available SonarMaps with you at any time and place! You can choose perspectives with intuitive touch navigation, measure distances, set waypoints or determine bearings. It is available for iPhone and iPad. To download, please visit: https://apps.apple.com/de/app/sonarbot-explorations/id6447108506 .
 
+<br>
 
-**_For more information please visit our website at https://sonarbot-explorations.com or contact us per email under info@sonarbot-explorations.com ._**
+For more information please visit our website at https://sonarbot-explorations.com or contact us per email under info@sonarbot-explorations.com.
+
+</div>
