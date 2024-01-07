@@ -21,7 +21,7 @@ With our autonomous USVs (unmanned surface vehicles) we scan underwater topograp
 
 Our "SonarBot" USVs (unmanned surface vehicles) are autonomous scan rovers with centimeter-precise real-time positioning. They navigate independently and reliably even in adverse conditions and poor visibility. Mission monitoring can be conducted from any location using innovative cloud relay technology.
 
-SonarBots can be equipped with different sonar modules and sensors depending on the specific use case.
+SonarBots can be equipped with different sonar modules and other sensors depending on the specific use case.
 
 <a name="sonarmaps"></a>
 ## SonarMaps
