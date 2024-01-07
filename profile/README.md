@@ -6,7 +6,7 @@
 
 Founded in 2023, SonarBot Exploration Services GmbH provides professional bathymetric scanning services for everyone from hobby scuba diver to hydraulic engineer.
 
-With our autonomous USVs (unmanned surface vehicles) we scan underwater topographies and provide high-resolution 3D models ("SonarMaps") and bathymetric data in DGNSS/RTK quality.
+With our autonomous USVs (unmanned surface vehicles) we scan underwater topographies and provide high-resolution 3D models ("SonarMaps") and bathymetric data exports in DGNSS/RTK quality.
 
 <img width="1809" alt="Screenshot 2023-05-08 at 19 00 34" src="https://github.com/sonarbot-explorations/.github/assets/155586093/e569d627-c3b2-4dec-b95b-9ae4ceaaedb6">
 
